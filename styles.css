@@ -1,0 +1,35 @@
+body { 
+    background-color: #f4f4f4;
+    color: #555;
+    font: normal 16px Arial, Hevetica, sans-serif;
+  }
+.black-border {
+    border: 5px solid rgb(40, 109, 136);
+    background-color: #7ec6ca;
+    border-radius: 25px;
+        padding: 10px;
+        height: 15px;
+        width: 400px;
+        }
+
+.intro-tekst{
+    font: bold 16px Arial, Hevetica, sans-serif;
+}
+#green-background {
+    background-color: #5F9EA0;
+    font-size: 60px;
+    font-family: 'MonteCarlo', cursive;font-size: 65px;
+}
+article {
+    margin-left: 10px;
+    }
+aside{
+    font-size: 15px;
+    }
+    hr
+    {
+      display:block;
+      border:none;
+      height:1000px;
+      background-image:url('Achtergrond.jfif');
+    } 
